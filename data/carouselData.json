@@ -5,7 +5,7 @@
       "description": "AI often struggles with realistic hand placement and finger details, so examine these closely.",
       "images": {
         "small": "images/spot-ai/small/1.jpg",
-        "medium": "images/spot-ai/large/1.jpg"
+        "medium": "images/spot-ai/large/1.png"
       }
     },
     {
@@ -14,7 +14,7 @@
       "description": "Check for asymmetry in facial features, odd eye placement, unnatural skin textures, or expressions that don't match the situation.",
       "images": {
         "small": "images/spot-ai/small/2.jpg",
-        "medium": "images/spot-ai/large/2.jpg"
+        "medium": "images/spot-ai/large/2.png"
       }
     },
     {
@@ -23,7 +23,7 @@
       "description": "Look for blurry or pixelated background elements, objects that don't fit the scene, or strange color gradients.",
       "images": {
         "small": "images/spot-ai/small/3.jpg",
-        "medium": "images/spot-ai/large/3.jpg"
+        "medium": "images/spot-ai/large/3.png"
       }
     },
     {
@@ -32,7 +32,7 @@
       "description": "Pay attention to details that might not make sense within the image, like text that is illegible or objects that don't belong.",
       "images": {
         "small": "images/spot-ai/small/4.jpg",
-        "medium": "images/spot-ai/large/4.jpg"
+        "medium": "images/spot-ai/large/4.png"
       }
     },
     {
@@ -41,7 +41,7 @@
       "description": "Look for minor details that appear off, like an odd number of fingers, misplaced objects, or strange proportions.",
       "images": {
         "small": "images/spot-ai/small/5.jpg",
-        "medium": "images/spot-ai/large/5.jpg"
+        "medium": "images/spot-ai/large/5.png"
       }
     },
     {
@@ -50,7 +50,7 @@
       "description": "Observe if shadows fall in an illogical way or if lighting seems inconsistent across the image.",
       "images": {
         "small": "images/spot-ai/small/6.jpg",
-        "medium": "images/spot-ai/large/6.jpg"
+        "medium": "images/spot-ai/large/6.png"
       }
     },
     {
@@ -59,7 +59,7 @@
       "description": "Check for unnatural repetition of patterns in clothing, hair, or other textures.",
       "images": {
         "small": "images/spot-ai/small/7.jpg",
-        "medium": "images/spot-ai/large/7.jpg"
+        "medium": "images/spot-ai/large/7.png"
       }
     },
     {
@@ -68,7 +68,7 @@
       "description": "Pixelation, strange colors, or blurriness in unexpected places can indicate AI manipulation.",
       "images": {
         "small": "images/spot-ai/small/8.jpg",
-        "medium": "images/spot-ai/large/8.jpg"
+        "medium": "images/spot-ai/large/8.png"
       }
     },
     {
@@ -77,7 +77,7 @@
       "description": "Use a search engine to see if the image appears elsewhere online and check for potential sources or inconsistencies.",
       "images": {
         "small": "images/spot-ai/small/9.jpg",
-        "medium": "images/spot-ai/large/9.jpg"
+        "medium": "images/spot-ai/large/9.png"
       }
     },
     {
@@ -86,7 +86,7 @@
       "description": "Be cautious of images from websites known for generating or sharing AI-generated content. ",
       "images": {
         "small": "images/spot-ai/small/10.jpg",
-        "medium": "images/spot-ai/large/10jpng"
+        "medium": "images/spot-ai/large/10.png"
       }
     }
   ]
