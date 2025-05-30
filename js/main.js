@@ -19,7 +19,7 @@ let FightWithAIData = [
     ],
     images: {
          small: "images/fightingwithAI/Shrimp-Jesus.jpg",
-        medium: "images/fightingwithAI/Shrimp-Jesus.jpg"
+        medium: "images/Thumbnails/Shrimp-Jesus.jpg"
     }
   },
   {
@@ -34,7 +34,7 @@ let FightWithAIData = [
     ],
     images: {
          small: "images/fightingwithAI/baby.jpg",
-        medium: "images/fightingwithAI/baby.jpg"
+        medium: "images/Thumbnails/baby.jpg"
     }
   },
   {
@@ -51,7 +51,7 @@ let FightWithAIData = [
     ],
     images: {
         small: "images/fightingwithAI/david.jpg",
-        medium: "images/fightingwithAI/david.jpg"
+        medium: "images/Thumbnails/david.jpg"
     }
   },
   {
@@ -65,7 +65,7 @@ let FightWithAIData = [
     ],
     images: {
        small: "images/fightingwithAI/sony.webp",
-        medium: "images/fightingwithAI/sony.jpg"
+        medium: "images/Thumbnails/sony.jpg"
     }
   },
   {
@@ -80,7 +80,7 @@ let FightWithAIData = [
     ],
     images: {
   small: "images/fightingwithAI/oldwomen.jpg",
-        medium: "images/fightingwithAI/oldwomen.jpg"
+        medium: "images/Thumbnails/oldwomen.jpg"
     }
   },
   {
@@ -94,7 +94,7 @@ let FightWithAIData = [
     ],
     images: {
        small: "images/fightingwithAI/Elizabeth.jpg",
-        medium: "images/fightingwithAI/Elizabeth.jpg"
+        medium: "images/Thumbnails/Elizabeth.jpg"
     }
   } ,
 
@@ -111,7 +111,7 @@ let FightWithAIData = [
     ],
     images: {
       small: "images/fightingwithAI/Giant.jpg",
-        medium: "images/fightingwithAI/Giant.jpg"
+        medium: "images/Thumbnails/Giant.jpg"
     }
   },
   {
@@ -125,7 +125,7 @@ let FightWithAIData = [
     ],
     images: {
        small: "images/fightingwithAI/Pizza.jpg",
-        medium: "images/fightingwithAI/Pizza.jpg"
+        medium: "images/Thumbnails/Pizza.jpg"
     }
   },
   {
@@ -141,7 +141,7 @@ let FightWithAIData = [
     ],
     images: {
       small: "images/fightingwithAI/Pope.jpg",
-        medium: "images/fightingwithAI/Pope.jpg"
+        medium: "images/Thumbnails/Pope.jpg"
     }
   },
   {
@@ -153,7 +153,7 @@ let FightWithAIData = [
     sources: ["https://x.com/unclescrooch/status/1833230482341027880"],
     images: {
    small: "images/fightingwithAI/WillSmith.jpg",
-        medium: "images/fightingwithAI/WillSmith.jpg"
+        medium: "images/Thumbnails/WillSmith.jpg"
     }
   },
   {
@@ -165,7 +165,7 @@ let FightWithAIData = [
     sources: ["https://x.com/DeFiDobby/status/1677016136259362824"],
     images: {
    small: "images/fightingwithAI/Zuckerberg.jpg",
-        medium: "images/fightingwithAI/Zuckerberg.jpg"
+        medium: "images/Thumbnails/Zuckerberg.jpg"
     }
   },
     {
@@ -180,7 +180,7 @@ let FightWithAIData = [
     ],
     images: {
        small: "images/fightingwithAI/Harry_Potter.jpg",
-        medium: "images/fightingwithAI/Harry_Potter.jpg"
+        medium: "images/Thumbnails/Harry_Potter.jpg"
     }
   },
   {
@@ -195,7 +195,7 @@ let FightWithAIData = [
     ],
     images: {
      small: "images/fightingwithAI/Tyson.jpg",
-        medium: "images/fightingwithAI/Tyson.jpg"
+        medium: "images/Thumbnails/Tyson.jpg"
     }
   },
     {
@@ -209,7 +209,7 @@ let FightWithAIData = [
     ],
     images: {
        small: "images/fightingwithAI/Bolsonaro.jpg",
-        medium: "images/fightingwithAI/Bolsonaro.jpg"
+        medium: "images/Thumbnails/Bolsonaro.jpg"
     }
   },
   {
@@ -226,7 +226,7 @@ let FightWithAIData = [
     ],
     images: {
   small: "images/fightingwithAI/Party.jpg",
-        medium: "images/fightingwithAI/Party.jpg"
+        medium: "images/Thumbnails/Party.jpg"
     }
     },
     {
@@ -243,7 +243,7 @@ let FightWithAIData = [
         ],
         images: {
             small: "images/fightingwithAI/Party1.jpg",
-            medium: "images/fightingwithAI/Party1.jpg"
+            medium: "images/Thumbnails/Party1.jpg"
         }
     },
   {
@@ -261,7 +261,7 @@ let FightWithAIData = [
     ],
     images: {
       small: "images/fightingwithAI/Katy.jpg",
-        medium: "images/fightingwithAI/Katy.jpg"
+        medium: "images/Thumbnails/Katy.jpg"
     }
   },
   {
@@ -277,7 +277,7 @@ let FightWithAIData = [
     ],
     images: {
         small: "images/fightingwithAI/Bud.jpg",
-        medium: "images/fightingwithAI/Bud.jpg"
+        medium: "images/Thumbnails/Bud.jpg"
     }
   },
   {
@@ -294,7 +294,7 @@ let FightWithAIData = [
     ],
     images: {
       small: "images/fightingwithAI/girl_cry.jpg",
-        medium: "images/fightingwithAI/girl_cry.jpg"
+        medium: "images/Thumbnails/girl_cry.jpg"
     }
   },
     {
@@ -311,7 +311,7 @@ let FightWithAIData = [
     ],
     images: {
       small: "images/fightingwithAI/earthquake.jpg",
-        medium: "images/fightingwithAI/earthquake.jpg"
+        medium: "images/Thumbnails/earthquake.jpg"
     }
   },
     {
@@ -323,7 +323,7 @@ let FightWithAIData = [
     sources: ["https://petapixel.com/2024/02/29/this-viral-photo-taken-in-1989-of-a-man-smoking-in-mcdonalds-is-not-all-it-seems/"],
     images: {
       small: "images/fightingwithAI/McDonalds.jpg",
-        medium: "images/fightingwithAI/McDonalds.jpg"
+        medium: "images/Thumbnails/McDonalds.jpg"
     }
   },
     {
@@ -336,7 +336,7 @@ let FightWithAIData = [
     sources: ["https://www.boredpanda.com/funny-weird-ai-images/"],
     images: {
        small: "images/fightingwithAI/mrBean.jpg",
-        medium: "images/fightingwithAI/mrBean.jpg"
+        medium: "images/Thumbnails/mrBean.jpg"
     }
   },
     {
@@ -348,7 +348,7 @@ let FightWithAIData = [
     sources: ["https://x.com/CommerceGuruu/status/1645334004177190912"],
     images: {
      small: "images/fightingwithAI/Warren.jpg",
-        medium: "images/fightingwithAI/Warren.jpg"
+        medium: "images/Thumbnails/Warren.jpg"
     }
   },
   {
@@ -362,7 +362,7 @@ let FightWithAIData = [
     ],
     images: {
         small: "images/fightingwithAI/Turkish.jpg",
-        medium: "images/fightingwithAI/Turkish.jpg"
+        medium: "images/Thumbnails/Turkish.jpg"
     }
   },
     {
@@ -374,7 +374,7 @@ let FightWithAIData = [
     sources: ["https://www.theguardian.com/world/2023/may/02/amnesty-international-ai-generated-images-criticism"],
     images: {
      small: "images/fightingwithAI/amnesty.jpg",
-        medium: "images/fightingwithAI/amnesty.jpg"
+        medium: "images/Thumbnails/amnesty.jpg"
     }
   },
     {
@@ -387,7 +387,7 @@ let FightWithAIData = [
     sources: ["https://news.sky.com/story/fake-ai-images-keep-going-viral-here-are-eight-that-have-caught-people-out-13028547"],
     images: {
 small: "images/fightingwithAI/Julian.jpg",
-        medium: "images/fightingwithAI/Julian.jpg"
+        medium: "images/Thumbnails/Julian.jpg"
     }
   },
     {
@@ -401,7 +401,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://www.snopes.com/fact-check/fake-photo-israel-crowds/"],
     images: {
    small: "images/fightingwithAI/Israeli.jpg",
-        medium: "images/fightingwithAI/Israeli.jpg"
+        medium: "images/Thumbnails/Israeli.jpg"
     }
   },
     {
@@ -415,7 +415,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://www.tiktok.com/@weltmysterien/video/7484792399395360022?_r=1&_t=ZT-8vERrsDWL0A"],
     images: {
    small: "images/fightingwithAI/Luxor.jpg",
-        medium: "images/fightingwithAI/Luxor.jpg"
+        medium: "images/Thumbnails/Luxor.jpg"
     }
   },
     {
@@ -429,7 +429,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://petapixel.com/2024/12/30/donald-trump-ai-generated-images-and-deepfakes-had-little-effect-on-2024-elections/"],
     images: {
    small: "images/fightingwithAI/Swifties.jpg",
-        medium: "images/fightingwithAI/Swifties.jpg"
+        medium: "images/Thumbnails/Swifties.jpg"
     }
   },
   
@@ -442,7 +442,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://newschecker.in/fact-check/ai-generated-images-falsely-shared-as-bangladesh-floods/"],
     images: {
        small: "images/fightingwithAI/Flood.jpg",
-        medium: "images/fightingwithAI/Flood.jpg"
+        medium: "images/Thumbnails/Flood.jpg"
     }
   },
     {
@@ -454,7 +454,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://readwrite.com/deepfake-ai-generated-images-that-went-viral-in-2023/"],
     images: {
      small: "images/fightingwithAI/Ukraine.jpg",
-        medium: "images/fightingwithAI/Ukraine.jpg"
+        medium: "images/Thumbnails/Ukraine.jpg"
     }
   },
     {
@@ -468,7 +468,7 @@ small: "images/fightingwithAI/Julian.jpg",
     sources: ["https://gulfnews.com/world/offbeat/fact-check-viral-video-of-polar-bear-cub-stranded-on-melting-iceberg-is-ai-1.1732199790309"],
     images: {
    small: "images/fightingwithAI/Rescuing.jpg",
-        medium: "images/fightingwithAI/Rescuing.jpg"
+        medium: "images/Thumbnails/Rescuing.jpg"
     }
   },
 
@@ -482,7 +482,7 @@ small: "images/fightingwithAI/Julian.jpg",
       sources: ["https://www.nbcnews.com/tech/tech-news/facebook-users-say-amen-bizarre-ai-generated-images-jesus-rcna143965"],
     images: {
 small: "images/fightingwithAI/Kid.jpg",
-        medium: "images/fightingwithAI/Kid.jpg"
+        medium: "images/Thumbnails/Kid.jpg"
     }
   },
   {
@@ -497,7 +497,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://x.com/vikingwarior20/status/1903622730664251590?s=46&t=TdE3zE227tnZVuZ31bFzOg"],
     images: {
      small: "images/fightingwithAI/Cryingwoman.jpg",
-        medium: "images/fightingwithAI/Cryingwoman.jpg"
+        medium: "images/Thumbnails/Cryingwoman.jpg"
     }
   },
 
@@ -512,7 +512,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://leadstories.com/hoax-alert/2024/09/fact-check-fake-photo-shows-two-heavily-armed-men-in-line-at-fast-food-restaurant.html#google_vignette"],
     images: {
    small: "images/fightingwithAI/Armed.jpg",
-        medium: "images/fightingwithAI/Armed.jpg"
+        medium: "images/Thumbnails/Armed.jpg"
     }
   },
 
@@ -527,7 +527,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://x.com/nocontextfre/status/1638306997274591235"],
     images: {
   small: "images/fightingwithAI/Macron.jpg",
-        medium: "images/fightingwithAI/Macron.jpg"
+        medium: "images/Thumbnails/Macron.jpg"
     }
   },
   
@@ -541,7 +541,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://x.com/ai_for_success/status/1878068646125154815"],
     images: {
   small: "images/fightingwithAI/LAfire.jpg",
-        medium: "images/fightingwithAI/LAfire.jpg"
+        medium: "images/Thumbnails/LAfire.jpg"
     }
   },
     {
@@ -555,7 +555,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://www.tiktok.com/@disastervibes7/video/7424867960700800299"],
     images: {
   small: "images/fightingwithAI/Hurricane.jpg",
-        medium: "images/fightingwithAI/Hurricane.jpg"
+        medium: "images/Thumbnails/Hurricane.jpg"
     }
   },
     {
@@ -568,7 +568,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://petapixel.com/2023/09/20/tv-station-calls-out-fake-ai-images-of-hurricane-idalia/"],
     images: {
   small: "images/fightingwithAI/Wave.jpg",
-        medium: "images/fightingwithAI/Wave.jpg"
+        medium: "images/Thumbnails/Wave.jpg"
     }
   },
       {
@@ -580,7 +580,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://petapixel.com/2023/08/22/fake-ai-images-of-paris-covered-in-trash-go-viral/"],
     images: {
   small: "images/fightingwithAI/Trash.jpg",
-        medium: "images/fightingwithAI/Trash.jpg"
+        medium: "images/Thumbnails/Trash.jpg"
     }
   },
         {
@@ -592,7 +592,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://petapixel.com/2023/05/15/photojournalist-controversially-turns-to-ai-to-illustrate-inaccessible-stories/"],
     images: {
   small: "images/fightingwithAI/florida.jpg",
-        medium: "images/fightingwithAI/florida.jpg"
+        medium: "images/Thumbnails/florida.jpg"
     }
   },
     {
@@ -606,7 +606,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://x.com/RealXavier011/status/1895042084232401143"],
     images: {
   small: "images/fightingwithAI/whale.webp",
-        medium: "images/fightingwithAI/whale.jpg"
+        medium: "images/Thumbnails/whale.jpg"
     }
   },
     {
@@ -618,7 +618,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://www.cnn.com/2023/05/22/tech/twitter-fake-image-pentagon-explosion/index.html"],
     images: {
         small: "images/fightingwithAI/Pentagon.jpg",
-        medium: "images/fightingwithAI/Pentagon.jpg"
+        medium: "images/Thumbnails/Pentagon.jpg"
     }
   },
   {
@@ -630,7 +630,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://x.com/Songulmtt/status/1905229246458388510"],
     images: {
   small: "images/fightingwithAI/Pikachu.jpg",
-        medium: "images/fightingwithAI/Pikachu.jpg"
+        medium: "images/Thumbnails/Pikachu.jpg"
     }
   },
   {
@@ -642,7 +642,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://www.reuters.com/fact-check/ai-generated-video-purports-show-apocalyptic-scenes-los-angeles-wildfires-2025-01-16/"],
     images: {
    small: "images/fightingwithAI/hollywood.jpg",
-        medium: "images/fightingwithAI/hollywood.jpg"
+        medium: "images/Thumbnails/hollywood.jpg"
     }
   },
   {
@@ -656,7 +656,7 @@ small: "images/fightingwithAI/Kid.jpg",
     sources: ["https://www.tiktok.com/@sybervisions_/video/7454549599106223368"],
     images: {
     small: "images/fightingwithAI/Mysterious.jpg",
-        medium: "images/fightingwithAI/Mysterious.jpg"
+        medium: "images/Thumbnails/Mysterious.jpg"
     }
   }
 ];
